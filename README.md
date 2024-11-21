@@ -33,3 +33,7 @@ g) Document
 h) Image
 * https://colab.research.google.com/drive/14BMPE4iIuGkBPm6rNa9s0JQ_qGHIC2Vl?usp=sharing
 * https://www.youtube.com/watch?v=tlCIQwhNh2w
+
+i) Audio
+* https://colab.research.google.com/drive/1ns57n_0SWvnDRDFWF7v88I-Bw2d_aaCS?usp=sharing
+* https://www.youtube.com/watch?v=Q9_5KbDPU0g
