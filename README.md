@@ -14,6 +14,10 @@ c) Guassian Mixture
 * https://colab.research.google.com/drive/1L_buxhY_EFJTVaWvCGdZGNMd5Cm-54N3?usp=sharing
 * https://www.youtube.com/watch?v=P-lhngHDraQ
 
-c) DBScan
+d) DBScan
 * https://colab.research.google.com/drive/1AO8tlLy-ZbBAaUHGxwp_aP8PMWrOWaIZ?usp=sharing
 * https://www.youtube.com/watch?v=jXRt-dxV5Pg
+
+e) Anomaly Detection with pyOD
+* https://colab.research.google.com/drive/1GmGu0zgWQ0m9Sd5tNrJfoV7FnpuV3PBW?usp=sharing
+* https://www.youtube.com/watch?v=0PFSR2j4qP4
