@@ -21,3 +21,7 @@ d) DBScan
 e) Anomaly Detection with pyOD
 * https://colab.research.google.com/drive/1GmGu0zgWQ0m9Sd5tNrJfoV7FnpuV3PBW?usp=sharing
 * https://www.youtube.com/watch?v=0PFSR2j4qP4
+
+f) Time Series
+* https://colab.research.google.com/drive/105BJTA8-hZHKa3LSjpSCdxanRDGMUnVh?usp=sharing
+* https://www.youtube.com/watch?v=i5puqIdqE0M
