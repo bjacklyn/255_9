@@ -25,3 +25,7 @@ e) Anomaly Detection with pyOD
 f) Time Series
 * https://colab.research.google.com/drive/105BJTA8-hZHKa3LSjpSCdxanRDGMUnVh?usp=sharing
 * https://www.youtube.com/watch?v=i5puqIdqE0M
+
+g) Document
+* https://colab.research.google.com/drive/1dankc4ILO10wO0THHMvTFlIPDpaE5oaN?usp=sharing
+* https://www.youtube.com/watch?v=Ri2CUgPrn2g
