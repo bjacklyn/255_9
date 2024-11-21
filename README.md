@@ -13,3 +13,7 @@ b) Hierarchical
 c) Guassian Mixture
 * https://colab.research.google.com/drive/1L_buxhY_EFJTVaWvCGdZGNMd5Cm-54N3?usp=sharing
 * https://www.youtube.com/watch?v=P-lhngHDraQ
+
+c) DBScan
+* https://colab.research.google.com/drive/1AO8tlLy-ZbBAaUHGxwp_aP8PMWrOWaIZ?usp=sharing
+* https://www.youtube.com/watch?v=jXRt-dxV5Pg
